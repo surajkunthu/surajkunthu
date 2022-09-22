@@ -1,6 +1,6 @@
 # Suraj Kunthu
 
-I'm a Process Engineer currently working at DuPont in Richmond, VA. My role involves data analytics, lots of communication, and resource management. I enjoy developing software tools and applications and I have interest in building Machine Learning algorithms and Artificial Intelligence programs. I'm also pursuing a Masters at The University of Virginia to further my data science skills.
+I'm a Production Engineer currently working at DuPont in Richmond, VA. My role involves data analytics, lots of communication, and resource management. I enjoy developing software tools and applications and I have an interest in building Machine Learning algorithms and Artificial Intelligence programs. I'm also pursuing a Masters Degree at The University of Virginia to further my data science skills.
 
 ### :books: Education
  - M.S. in Data Science at [The University of Virginia](https://www.virginia.edu/), [School of Data Science](https://datascience.virginia.edu/)
@@ -13,7 +13,7 @@ I'm a Process Engineer currently working at DuPont in Richmond, VA. My role invo
 | Role | Company | Dates |
 | --- | --- | --- |
 | Student Admissions Ambassador | UVA School of Data Science | August 2022 - _Present_ |
-| Process Engineer | DuPont | September 2021 - _Present_ |
+| Production Engineer | DuPont | September 2021 - _Present_ |
 | Quality Engineer | DuPont | June 2020 - August 2021 |
 | Facilities Asset Engineer Intern | Virginia Commonwealth University | August 2019 - May 2020 |
 | Supply Chain Intern | PepsiCo, Inc. | June 2019 - August 2019 |
