@@ -3,21 +3,21 @@
 I'm a Production Engineer currently working at DuPont in Richmond, VA. My role involves data analytics, lots of communication, and resource management. I enjoy developing software tools and applications and I have an interest in building Machine Learning algorithms and Artificial Intelligence programs. I'm also pursuing a Masters Degree at The University of Virginia to further my data science skills.
 
 ### :books: Education
- - M.S. in Data Science at [The University of Virginia](https://www.virginia.edu/), [School of Data Science](https://datascience.virginia.edu/)
+ - <img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/University_of_Virginia_School_of_Data_Science_logo.svg" />M.S. in Data Science at [The University of Virginia](https://www.virginia.edu/), [School of Data Science](https://datascience.virginia.edu/)
     - _In progress_, expected graduation May 2024
- - B.S. in Mechanical Engineering at [Virginia Commonwealth University](https://www.vcu.edu/), [College of Engineering](https://egr.vcu.edu/departments/mechanical/)
+ - <img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/VCU_typeface.svg" />B.S. in Mechanical Engineering at [Virginia Commonwealth University](https://www.vcu.edu/), [College of Engineering](https://egr.vcu.edu/departments/mechanical/)
     - Minors in Mathematics, Physics, and Statistics
     - Graduated May 2020
     
 ### :briefcase: Work Experience
 | Role | Company | Dates |
 | --- | --- | --- |
-| Student Admissions Ambassador | UVA School of Data Science | August 2022 - _Present_ |
-| Production Engineer | DuPont | September 2021 - _Present_ |
-| Quality Engineer | DuPont | June 2020 - August 2021 |
-| Facilities Asset Engineer Intern | Virginia Commonwealth University | August 2019 - May 2020 |
-| Supply Chain Intern | PepsiCo, Inc. | June 2019 - August 2019 |
-| Facilities Asset Engineer Intern | Virginia Commonwealth University | May 2018 - May 2019 |
+| Student Admissions Ambassador | <img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/University_of_Virginia_School_of_Data_Science_logo.svg" />UVA School of Data Science | August 2022 - _Present_ |
+| Production Engineer | <img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/DuPont_de_Nemours_logo.svg" />DuPont | September 2021 - _Present_ |
+| Quality Engineer | <img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/DuPont_de_Nemours_logo.svg" />DuPont | June 2020 - August 2021 |
+| Facilities Asset Engineer Intern | <img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/VCU_typeface.svg" />Virginia Commonwealth University | August 2019 - May 2020 |
+| Supply Chain Intern | <img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Pepsico_logo.svg" />PepsiCo, Inc. | June 2019 - August 2019 |
+| Facilities Asset Engineer Intern | <img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/VCU_typeface.svg" />Virginia Commonwealth University | May 2018 - May 2019 |
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
