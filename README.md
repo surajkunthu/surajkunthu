@@ -3,7 +3,7 @@
 I'm a Process Engineer currently working at Celanese in Richmond, VA. My role involves data analytics, lots of communication, and resource management. I enjoy developing software tools and applications and I have an interest in building Machine Learning algorithms and Artificial Intelligence programs. I'm also pursuing a Masters Degree at The University of Virginia to further my data science skills.
 
 ### :books: Education
- - <img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/University_of_Virginia_School_of_Data_Science_logo.svg" />M.S. in Data Science at [The University of Virginia](https://www.virginia.edu/), [School of Data Science](https://datascience.virginia.edu/)
+ - <img align="left" alt="Java" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/University_of_Virginia_School_of_Data_Science_logo.svg" />M.S. in Data Science at [The University of Virginia](https://www.virginia.edu/), [School of Data Science](https://datascience.virginia.edu/)
     - _In progress_, expected graduation May 2024
  - <img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/VCU_typeface.svg" />B.S. in Mechanical Engineering at [Virginia Commonwealth University](https://www.vcu.edu/), [College of Engineering](https://egr.vcu.edu/departments/mechanical/)
     - Minors in Mathematics, Physics, and Statistics
