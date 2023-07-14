@@ -1,6 +1,6 @@
 # Suraj Kunthu
 
-I'm a Process Engineer currently working at Celanese in Richmond, VA. My role involves data analytics, lots of communication, and resource management. I enjoy developing software tools and applications and I have an interest in building Machine Learning algorithms and Artificial Intelligence programs. I'm also pursuing a Masters Degree at The University of Virginia to further my data science skills.
+I'm a Software Engineer currently working at Capital One in Richmond, VA. I enjoy developing software tools and applications and I have an interest in building Machine Learning algorithms and Artificial Intelligence programs. I'm also pursuing a Masters Degree at The University of Virginia to further my data science skills.
 
 ### :books: Education
  - <img align="left" alt="Java" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/University_of_Virginia_School_of_Data_Science_logo.svg" />M.S. in Data Science at [The University of Virginia](https://www.virginia.edu/), [School of Data Science](https://datascience.virginia.edu/)
@@ -12,8 +12,9 @@ I'm a Process Engineer currently working at Celanese in Richmond, VA. My role in
 ### :briefcase: Work Experience
 | Role | Company | Dates |
 | --- | --- | --- |
+| Software Engineer | <img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Capital_One_logo.svg/640px-Capital_One_logo.svg.png"/> Capital One | August 2023 - _Present_ |
 | Student Admissions Ambassador | <img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/University_of_Virginia_School_of_Data_Science_logo.svg" />UVA School of Data Science | August 2022 - _Present_ |
-| Process Engineer | <img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/archive/9/90/20140911234509%21Logo_Celanese.svg" />Celanese (\*Purchased November 1st, 2022) <br> <img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/DuPont_de_Nemours_logo.svg" />DuPont | September 2021 - _Present_ |
+| Process Engineer | <img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/DuPont_de_Nemours_logo.svg" />DuPont | September 2021 - July 2023 |
 | Quality Engineer | <img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/DuPont_de_Nemours_logo.svg" />DuPont | June 2020 - August 2021 |
 | Facilities Asset Engineer Intern | <img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/VCU_typeface.svg" />Virginia Commonwealth University | August 2019 - May 2020 |
 | Supply Chain Intern | <img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Pepsico_logo.svg" />PepsiCo, Inc. | June 2019 - August 2019 |
