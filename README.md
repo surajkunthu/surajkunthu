@@ -21,20 +21,10 @@ I'm a Software Engineer at Capital One in Richmond, VA. I enjoy developing softw
 | Facilities Asset Engineer Intern | <img align="left" alt="vcu" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/VCU_typeface.svg" />Virginia Commonwealth University | May 2018 - May 2019 |
 
 ### Certifications
-- Production Readiness, Reliability Engineer
-  - Issuing org: Capital One
-  - Obtained: August 2024
-    - Expires: August 2025
-- AWS Certified Solutions Architect, Associate
-  - Issuing org: AWS
-  - Obtained: July 2024
-    - Expires: July 2027
-- Certified Secure Software Engineer (CSSE), Associate
-  - Issuing org: Capital One
-  - Obtained: October 2023
-- Certified Lean Practitioner
-  - Issuing org: DuPont
-  - Obtained: September 2022
-- Certified Lean Six Sigma, Green Belt
-  - Issuing org: DuPont
-  - Obtained: August 2022
+| Name | Issuing Organization | Date(s) |
+| - | - | - |
+| Production Readiness, Reliability Engineer | Capital One| Obtained: August 2024, Expires: August 2025 |
+| [AWS Certified Solutions Architect, Associate](https://www.credly.com/badges/b5da160c-2d12-47b7-820e-4ea94528a74d/linked_in?t=sgcrl3) | Amazon | Obtained: July 2024, Expires: July 2027|
+| [Certified Secure Software Engineer (CSSE), Associate](https://drive.google.com/file/d/1JQGz13PWnDueF8Pmm6eKtW_zs1Nmd3nx/view?usp=drivesdk) | Capital One | Obtained: October 2023 |
+| [Certified Lean Practitioner](https://drive.google.com/file/d/1Ki4IV2kQsJsfJ78DgoGZj8ey6s7xAohs/view?usp=sharing) | DuPont | Obtained: September 2022 |
+| [Certified Lean Six Sigma, Green Belt](https://drive.google.com/file/d/19QWi3pIfKm3VFFHQCwfaYdk4ML0htY2d/view?usp=sharing) | DuPont | Obtained: August 2022 |
